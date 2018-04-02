@@ -1,0 +1,54 @@
+11:error missing parenthesis
+17:1 2
+19:
+20:
+21:1
+23:
+24:
+25:
+27:
+28:
+29:1 12
+32:1 17
+36:1 2 3 4 5 6
+40:0
+43:error missing parenthesis
+47:error undefined variable
+53:99999999999999999999999999999999999999999999999999999999999999999999999999
+57:error no end of line
+59:error missing parenthesis
+61:error missing parenthesis
+63:error undefined variable
+65:error no statement
+67:error incomplete statement
+69:error number expected
+70:error no statement
+72:error no end of line
+73:error missing parenthesis
+74:error undefined variable
+77:error no end of line
+82:error missing closing curly brace
+84:error missing closing curly brace
+85:error missing closing curly brace
+87:error missing closing curly brace
+88:error number expected
+89:error number expected
+90:error number expected
+91:error number expected
+92:error number expected
+93:error no statement
+94:error missing closing curly brace
+96:error missing closing curly brace
+97:error number expected
+98:error number expected
+100:error missing closing curly brace
+101:error no end of line
+102:error no end of line
+104:error equal sign expected
+105:54321
+107:error equal sign expected
+108:98765
+109:error equal sign expected
+117:error no statement
+118:error no statement
+119:error no statement
